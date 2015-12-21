@@ -1,1 +1,2 @@
-# scalatests
+# My tests with Scala language
+
